@@ -748,6 +748,16 @@ a.button-style-3 {
     box-shadow: 0 20px 40px -10px rgba(0, 0, 0, .3);
 }
 
+/* reel */
+
+.video-playback {
+    max-width: 500px;
+}
+
+.carousel-video-inner {
+    text-align: center;
+  }
+
 /* popup */
 .pop-overlay {
     position: fixed;
