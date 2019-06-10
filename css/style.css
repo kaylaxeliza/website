@@ -81,7 +81,7 @@ a:hover {
 
 /* colors code */
 .text-bl {
-    color: #343a40;
+    color: #93BBBD;
 }
 
 .text-wh {
@@ -97,7 +97,7 @@ a:hover {
 }
 
 .tm-clr {
-    color: #bd2130;
+    color: #93BBBD;
 }
 
 .bg-li {
@@ -522,7 +522,7 @@ h3.tittle {
 
 /* middle section */
 .w3ls-middle {
-    background: url(../images/bg1.jpg) no-repeat top;
+    background: url(../images/plane.jpg) no-repeat top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -583,7 +583,7 @@ a.logo-footer {
 }
 
 a.logo-footer:hover {
-    color: #bd2130;
+    color: #93BBBD;
 }
 
 .footer-grid ul li a {
@@ -603,7 +603,7 @@ a.logo-footer:hover {
 }
 
 .social-icons-footer ul li a span {
-    color: #bd2130;
+    color: #93BBBD;
     margin: 0 8px;
     font-size: 16px;
 }
@@ -613,7 +613,7 @@ a.logo-footer:hover {
 
 /* copyright */
 .copy_right p a {
-    color: #bd2130;
+    color: #93BBBD;
     font-weight: bold;
     letter-spacing: 2px;
 }
@@ -656,7 +656,7 @@ a.button-style-3 {
 }
 
 .welcome-grid span {
-    color: #bd2130;
+    color: #93BBBD;
     font-size: 34px;
 }
 
@@ -665,7 +665,7 @@ a.button-style-3 {
 /* blog */
 .news-grids h4 {
     font-size: 23px;
-    color: #bd2130;
+    color: #93BBBD;
     letter-spacing: 1px;
 }
 
@@ -675,7 +675,7 @@ a.button-style-3 {
     font-weight: 700;
     letter-spacing: 3px;
     font-size: 14px;
-    background: #bd2130;
+    background: #93BBBD;
     border: none;
     text-transform: uppercase;
     -webkit-border-radius: 4px;
@@ -724,7 +724,7 @@ a.button-style-3 {
 
 /* gallery */
 .banner_w3lspvt-3 {
-    background: url(../images/b2.jpg) no-repeat top;
+    background: url(../images/peonies.JPG) no-repeat top;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -802,7 +802,7 @@ a.button-style-3 {
 }
 
 .popup .close:hover {
-    color: #f0546a;
+    color: #93BBBD;
 }
 
 /* //popup */
@@ -810,7 +810,7 @@ a.button-style-3 {
 
 /* contact */
 .banner_w3lspvt-4 {
-    background: url(../images/b5.jpg) no-repeat top;
+    background: url(../images/wall.jpg) no-repeat top;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -832,11 +832,11 @@ a.button-style-3 {
 }
 
 .midd-contact {
-    border-left: 2px solid #bd2130 !important;
+    border-left: 2px solid #93BBBD !important;
 }
 
 p.para-w3pvt-mobiits-w3layouts span {
-    color: #bd2130;
+    color: #93BBBD;
 }
 
 p.para-w3pvt-mobiits-w3layouts a {
@@ -887,7 +887,7 @@ h4.contact-title {
 }
 
 .form-bg-w3ls button {
-    background: #bd2130;
+    background: #93BBBD;
     color: #fff;
     font-size: 15px;
     width: 100%;
